@@ -5,7 +5,7 @@ Welcome to NLP Projects repository! This repository hosts various Python scripts
 1. **Text Classification**: Classifying text documents into different categories using NLP techniques.
 2. **Text Embedding**: Embedding different datasets using CBOW and Skipgram.
 
-Each project is contained within its own .py file, along with outputs and explanations of the code.
+Each project is contained within its own .py or .ipynb file, along with outputs and explanations of the code.
 
 ## **Note**
 This repository reflects my learning journey and includes practical applications of NLP techniques. It will continue to be updated with new projects and improvements over time.
