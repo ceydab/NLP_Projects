@@ -4,6 +4,7 @@ Welcome to NLP Projects repository! This repository hosts various Python scripts
 ## **Projects Included**
 1. **Text Classification**: Classifying text documents into different categories using NLP techniques.
 2. **Text Embedding**: Embedding different datasets using CBOW and Skipgram.
+3. **Sentiment Analysis**: This project aims to perform sentiment analysis through tweets, utilizing CNN.
 
 Each project is contained within its own .py or .ipynb file, along with outputs and explanations of the code.
 
