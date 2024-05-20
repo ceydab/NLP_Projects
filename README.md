@@ -2,9 +2,9 @@
 Welcome to NLP Projects repository! This repository hosts various Python scripts written in colab, each representing a different project related to Natural Language Processing (NLP) using machine learning techniques. 
 
 ## **Projects Included**
-1. **Text Classification**: Classifying texts into different categories using NLP techniques. Two files are included. The first one utilizes only machine learning techniques.
+1. **Text Classification**: Classifying texts into different categories of languages utilizing vanilla machine learning techniques.
 
-2. **Text Classification with Neural Networks**: The second one includes an application of neural networks to classify texts into categories of different languages.
+2. **Text Classification with Neural Networks**: Classifying texts into different categories of languages utilizing neural networks.
 
 3. **Text Embedding**: Embedding different datasets using CBOW and Skipgram.
 
