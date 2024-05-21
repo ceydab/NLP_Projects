@@ -14,6 +14,7 @@ Welcome to NLP Projects repository! This repository hosts various Python scripts
 
 6. **Sentiment Intensity**: This project aims to perform sentiment intensity analysis utilizing transformers.
 
+7. **Topic Modelling**: This project is a practice of topic modelling using LDA and CTM.
 
 Each project is contained within its own .py or .ipynb file, along with outputs and explanations of the code.
 
