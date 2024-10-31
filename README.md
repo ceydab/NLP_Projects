@@ -18,6 +18,8 @@ Welcome to NLP Projects repository! This repository hosts various Python scripts
 
 8. **LLama Fine-Tuning**: This project finetune LLama to assist with the taxes.
 
+9. **ASR&T2S**: This project utilizes automatic-speech-recognition and tts pipelines in order to create a small model that can take in a text, convert it into audio, and transcribes the audio again.
+
 Each project is contained within its own .py or .ipynb file, along with outputs and explanations of the code.
 
 ## **Note**
