@@ -1,5 +1,5 @@
-# NLP_Projects
-Welcome to NLP Projects repository! This repository hosts various Python scripts written in colab, each representing a different project related to Natural Language Processing (NLP) using machine learning techniques. 
+# LLM and NLP Projects
+Welcome to NLP Projects repository! This repository hosts various Python scripts, each representing a different project related to Large Language Models (LLMs) or Natural Language Processing (NLP) using machine learning techniques. 
 
 ## **Projects Included**
 1. **Text Classification**: Classifying texts into different categories of languages utilizing vanilla machine learning techniques.
